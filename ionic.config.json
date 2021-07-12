@@ -1,0 +1,8 @@
+{
+  "name": "OpenOTP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4aa65fdd"
+}

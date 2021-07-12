@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "OpenOTP",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
